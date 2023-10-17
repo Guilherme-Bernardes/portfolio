@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+body{
+    padding: 2% 0% 0% 15%;
+
+
+}
+.cabecalho{
+    gap: 80px;
+}
